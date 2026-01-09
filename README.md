@@ -9,10 +9,11 @@ This project applies machine learning techniques to predict the likelihood of dr
 * **`EDA.ipynb`**: Investigating the skew in the data, correlations between features, visualisations of drugs usage across the groups, discovering potential important signals
 * **`Modelling_1.ipynb`**: Training classifiers for each individual drug, hyperparameters tuning, presenting the results from the test set
 * **`Drug classification metrics analysis.xlsx`**: A consolidated report of model performance (Accuracy, Balanced Accuracy, Precision, Recall) across all drugs and algorithms.
+* **`Classification.pptx`**: PowerPoint slides with the key findings and algorithms results
 
 ## Data
 
 * **`X.csv`**: Initial, already encoded set of independent variables
-* * **`y.csv`**: Initial set of drugs usage scores (0-6), target variables
+*  **`y.csv`**: Initial set of drugs usage scores (0-6), target variables
 * **`X_decoded.csv`**, **`y_decoded.csv`**, **`df_decoded.csv`**: decoded initial data - made for clearness and readability of EDA
 * **`y_binary.csv`**: drug usage scores reduced to binary format - recent drug user (used in the last 12 months) vs not
