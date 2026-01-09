@@ -10,6 +10,7 @@ This project applies machine learning techniques to predict the likelihood of dr
 * **`Modelling_1.ipynb`**: Training classifiers for each individual drug, hyperparameters tuning, presenting the results from the test set
 * **`Drug classification metrics analysis.xlsx`**: A consolidated report of model performance (Accuracy, Balanced Accuracy, Precision, Recall) across all drugs and algorithms.
 * **`Classification.pptx`**: PowerPoint slides with the key findings and algorithms results
+* **`SVM_test_metrics.png`**: table with balanced accuracy, precision and recall for final SVM algorithm on test set 
 
 ## Data
 
